@@ -1,0 +1,17 @@
+job_role,skills
+Data Scientist,python sql machine_learning data_analysis statistics pandas numpy visualization
+ML Engineer,python tensorflow pytorch deep_learning machine_learning algorithms optimization
+Backend Developer,python java sql apis rest databases docker git
+Frontend Developer,javascript react html css typescript ui_design git
+DevOps Engineer,aws docker kubernetes ci_cd linux automation git cloud
+Cloud Architect,aws azure cloud infrastructure terraform automation security networking
+Data Analyst,sql excel data_analysis statistics visualization power_bi reporting
+Cybersecurity Engineer,networking security linux penetration_testing cryptography firewalls
+Mobile Developer,kotlin java swift android ios mobile_design apis
+Full Stack Developer,javascript python react nodejs sql html css git
+AI Research Scientist,python deep_learning algorithms mathematics research tensorflow pytorch
+Database Administrator,sql postgresql mysql optimization backup databases performance
+Systems Administrator,linux networking servers automation bash security monitoring
+Web Scraping Engineer,python selenium scrapy data_collection automation parsing
+NLP Engineer,python nlp machine_learning transformers text_processing linguistics
+Computer Vision Engineer,python opencv deep_learning tensorflow image_processing algorithms
